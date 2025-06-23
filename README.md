@@ -18,9 +18,8 @@ Streamlitを用いて手軽に実行・可視化が可能です。
 
 ## セットアップ手順
 以下の手順でこのアプリをローカル環境で動かせます。
-
-###1. リポジトリをクローンする
 ```bash
+###1. リポジトリをクローンする
 git clone https://github.com/your-username/stock_simulator.git
 cd stock_simulator
 ※上記のURLのyour-usernameの部分は自身のGitHubアカウントのものに置き換えてください。
